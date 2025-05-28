@@ -1,4 +1,4 @@
-body {
+body { 
   font-family: Georgia, serif;
   background-color: #fdfdfd;
   color: #111;
@@ -13,4 +13,23 @@ pre {
   font-size: 1.1rem;
   white-space: pre-wrap;
   line-height: 1.6;
+}
+
+
+nav { 
+  background-color: #222;
+  padding: 10px;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav ul li a:hover {
+  text-decoration: underline;
 }
