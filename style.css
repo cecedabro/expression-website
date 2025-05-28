@@ -1,12 +1,12 @@
 body { 
   font-family: Georgia, serif;
-  background-color: #fdfdfd;
+  background-color: #afaeae;
   color: #111;
   margin: 40px;
   line-height: 1.6;
 }
 pre {
-  background-color: #f5f5f5;
+  background-color: #3270c0;
   padding: 1.5rem;
   border-radius: 10px;
   font-family: "Georgia", serif;
@@ -15,6 +15,15 @@ pre {
   line-height: 1.6;
 }
 
+h2 {
+  font-size: 1rem;
+  color: #020202;
+  font-family: 'Georgia', serif;
+  font-style: italic;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #1e2f72;
+  padding-bottom: 5px;
+}
 
 nav { 
   background-color: #222;
@@ -26,7 +35,7 @@ nav ul {
   gap: 20px;
 }
 nav ul li a {
-  color: white;
+  color: rgb(35, 129, 148);
   text-decoration: none;
   font-weight: bold;
 }
