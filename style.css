@@ -16,13 +16,12 @@ pre {
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: #020202;
   font-family: 'Georgia', serif;
-  font-style: italic;
-  margin-bottom: 20px;
-  border-bottom: 2px solid #1e2f72;
-  padding-bottom: 5px;
+  background-color: rgb(74, 130, 160);
+  padding: 1.5rem;
+  border-radius: 10px;
 }
 
 nav { 
