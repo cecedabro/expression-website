@@ -23,7 +23,7 @@ page about "abstract shapes of expression". All other pages are fully filled out
 images and descriptions! 
 - finished the shapes of expression page. 
 - Fixed a bug with the gallery page. 
-- Changed all <pre> text format of the gallary pages into <p> text format for better 
+- Changed all "pre" text format of the gallary pages into "p" text format for better 
 readability and adaptability. 
 - Changed the image width to the according screen width, and also
 added extra code in the gallery-style.css to change the text-box parameters if the screen
