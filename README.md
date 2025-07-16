@@ -35,3 +35,10 @@ script instead of going to each seperate html page file.
 - Major debuggin with the navbar. 
 - Changed the whole folder structure so the overlap between locally hosted site (for developing) matches rougly with github hosted server for consistency in fetch and paths. 
 
+[14/07/2025]
+- Added all other writings on the site on existing pages
+- Added new pages to make the writings catalogue complete
+- Created a new container class to correctly display short stories on both desktop and mobile
+
+[16/07/2025]
+- Bug fixing regarding the pdf's download button, the pathing to get the pdf's is buggin a bit
